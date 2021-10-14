@@ -1,5 +1,5 @@
 <?php
 
-echo '<h1>linux admin.</h1>';
+echo '<h1>how r you</h1>';
 
 ?>
